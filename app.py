@@ -40,4 +40,8 @@ class CamApp(App):
         self.capture.release()
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     CamApp().run()
+=======
+    CamApp().run()
+>>>>>>> e2467662cf94f0c14f64fc02abc34fd9195c4eda
